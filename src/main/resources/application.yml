@@ -1,0 +1,4 @@
+kafka:
+  bootstrap-servers: 
+  topic:
+    helloworld: swap-device-add-req
